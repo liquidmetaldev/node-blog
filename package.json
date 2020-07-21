@@ -1,0 +1,29 @@
+{
+  "name": "cc",
+  "version": "1.0.0",
+  "description": "engineering a traditional interactive blog - nodejs, express, mongoose, markdown",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Liquid_Magnet",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liquidmetaldev/node-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liquidmetaldev/node-blog/issues"
+  },
+  "homepage": "https://github.com/liquidmetaldev/node-blog#readme"
+}
