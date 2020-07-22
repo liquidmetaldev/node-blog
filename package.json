@@ -18,6 +18,9 @@
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
+  "resolutions": {
+    "nodemon/pstree.remy": "1.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/liquidmetaldev/node-blog.git"
